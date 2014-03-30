@@ -13,7 +13,6 @@ Contents:
 
    intro
    tutorial
-   ...
 
 
 

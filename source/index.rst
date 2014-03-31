@@ -25,6 +25,15 @@ Contents:
 1. Getting Started
 ==================   
 
+   * System Requirements and Prerequisites
+   * Installation
+   * Licensing 
+
+2. Understanding Data
+=====================
+3. Configuring Flow
+=====================
+
 Indices and tables
 ==================
 

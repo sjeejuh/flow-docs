@@ -6,7 +6,7 @@ Data for Everyone
 
 .. image:: _static\understand.png
 	:align: center
-	:height: 300
+	:height: 150
 
 Basic Data Structures
 ---------------------

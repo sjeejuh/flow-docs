@@ -3,8 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to flowtest's documentation!
+Flow Software - User Manual
 ====================================
+
+`Flow`_ is a configuration based calculation and reporting engine. It integrates directly into and extends the Wonderware Suite of products, namely Wonderware Historian and Wonderware Intelligence. 
+
+Measures are reporting points-of-interest which are configured in the Flow architecture. They automatically retrieve data from underlying Historians or SQL databases, aggregate, and calculate. 
+
+Reports are configured in a drag & drop environment, no scripting required! 
+
+.. _Flow: http://vimeo.com/64385584
 
 Contents:
 
@@ -14,12 +22,11 @@ Contents:
    intro
    tutorial
 
-
+1. Getting Started
+==================   
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

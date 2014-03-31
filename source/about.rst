@@ -1,4 +1,4 @@
-**FLOW Software**
+FLOW Software
 =================
 
 **Introducing FLOW**

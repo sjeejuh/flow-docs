@@ -19,23 +19,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   intro
-   tutorial
-
-1. Getting Started
-==================   
-
-   * System Requirements and Prerequisites
-   * Installation
-   * Licensing 
-
-2. Understanding Data
-=====================
-3. Configuring Flow
-=====================
-
-Indices and tables
-==================
+   start
+   data
+   configure
+   develop
+   deploy
+   faq
+   news
 
 * :ref:`search`
 

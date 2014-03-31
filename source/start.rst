@@ -50,23 +50,21 @@ Want to know how much water you use month to month, what about electricity trend
 System Requirements
 -------------------
 
-The following minimal requirements are required:
+The following minimal requirements are required [#sysreq_note]_:
 
-* Wonderware Application Server 2014
-* Windows Servver 2012 SP2
-* Microsoft SQL Server
+	* Wonderware Application Server 2014
+	* Windows Servver 2012 SP2
+	* Microsoft SQL Server
 
 .. image:: _static\wwlogo.png
-	:align: left
-	:height: 50pt
+		:height: 50pt
 
 .. image:: _static\wserver.png
-	:align: left
-	:height: 50pt
+		:height: 50pt
 
 .. image:: _static\msqlserver.png
-	:align: left
-	:height: 50pt   		   		
+		:height: 50pt   			
 
-.. note::
-	FLOW Software will only operate on fully licensed software. Support and updates are limited to registered users.
+|
+
+.. [#sysreq_note] FLOW Software will only operate on fully licensed software. Support and updates are limited to registered users.

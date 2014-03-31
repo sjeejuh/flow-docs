@@ -2,8 +2,6 @@
 ================
 *No matter how advanced your operation, in manufacturing there is a lot to keep track of.* 
 
-.. image:: flowtrack.png
-	:align: center
 
 **For instance:**
 
@@ -22,6 +20,3 @@
 	* Aggregated your data to give you a truly visual display of your performance in any time frame from minutes to months, hours to years.
 
 	* Make your information so easy to interpret that end users extended from shop floor operators to boardroom executives. 
-
-.. image:: advansyslogo.png
-	:align: center

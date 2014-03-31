@@ -2,7 +2,7 @@
 ================
 *No matter how advanced your operation, in manufacturing there is a lot to keep track of.* 
 
-.. image:: C:\GitHub\flow-docs\build\flowtrack.png
+.. image:: flowtrack.png
 	:align: center
 
 **For instance:**
@@ -23,5 +23,5 @@
 
 	* Make your information so easy to interpret that end users extended from shop floor operators to boardroom executives. 
 
-.. image:: C:\GitHub\flow-docs\build\advansyslogo.png
+.. image:: advansyslogo.png
 	:align: center

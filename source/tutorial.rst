@@ -17,5 +17,5 @@ Want to know how much water you use month to month, what about electricity trend
 
 	**The answer is FLOW.**
 
-.. image:: C:\GitHub\flow-docs\build\flowdiag.png
+.. image:: flowdiag.png
 	:align: center

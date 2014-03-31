@@ -16,3 +16,6 @@ FLOW's simple layout and easy to use interface, means there’s no complicated p
 Want to know how much water you use month to month, what about electricity trends in your packaging department, or which shift is more productive. 
 
 	**The answer is FLOW.**
+
+	.. image:: _static\advansyslogo.png
+   		:align: center

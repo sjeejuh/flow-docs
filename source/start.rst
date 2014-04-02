@@ -5,6 +5,9 @@ Introduction
 ------------
 *No matter how advanced your operation, in manufacturing there is a lot to keep track of.* 
 
+.. raw:: html
+
+        <iframe src="//player.vimeo.com/video/64385584" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **For instance:**
 
